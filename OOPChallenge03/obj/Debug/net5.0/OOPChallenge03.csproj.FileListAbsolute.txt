@@ -1,0 +1,16 @@
+C:\Users\HFerreira\source\repos\OOPChallenge03\OOPChallenge03\bin\Debug\net5.0\OOPChallenge03.exe
+C:\Users\HFerreira\source\repos\OOPChallenge03\OOPChallenge03\bin\Debug\net5.0\OOPChallenge03.deps.json
+C:\Users\HFerreira\source\repos\OOPChallenge03\OOPChallenge03\bin\Debug\net5.0\OOPChallenge03.runtimeconfig.json
+C:\Users\HFerreira\source\repos\OOPChallenge03\OOPChallenge03\bin\Debug\net5.0\OOPChallenge03.runtimeconfig.dev.json
+C:\Users\HFerreira\source\repos\OOPChallenge03\OOPChallenge03\bin\Debug\net5.0\OOPChallenge03.dll
+C:\Users\HFerreira\source\repos\OOPChallenge03\OOPChallenge03\bin\Debug\net5.0\OOPChallenge03.pdb
+C:\Users\HFerreira\source\repos\OOPChallenge03\OOPChallenge03\obj\Debug\net5.0\OOPChallenge03.csproj.AssemblyReference.cache
+C:\Users\HFerreira\source\repos\OOPChallenge03\OOPChallenge03\obj\Debug\net5.0\OOPChallenge03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFerreira\source\repos\OOPChallenge03\OOPChallenge03\obj\Debug\net5.0\OOPChallenge03.AssemblyInfoInputs.cache
+C:\Users\HFerreira\source\repos\OOPChallenge03\OOPChallenge03\obj\Debug\net5.0\OOPChallenge03.AssemblyInfo.cs
+C:\Users\HFerreira\source\repos\OOPChallenge03\OOPChallenge03\obj\Debug\net5.0\OOPChallenge03.csproj.CoreCompileInputs.cache
+C:\Users\HFerreira\source\repos\OOPChallenge03\OOPChallenge03\obj\Debug\net5.0\OOPChallenge03.dll
+C:\Users\HFerreira\source\repos\OOPChallenge03\OOPChallenge03\obj\Debug\net5.0\refint\OOPChallenge03.dll
+C:\Users\HFerreira\source\repos\OOPChallenge03\OOPChallenge03\obj\Debug\net5.0\OOPChallenge03.pdb
+C:\Users\HFerreira\source\repos\OOPChallenge03\OOPChallenge03\obj\Debug\net5.0\OOPChallenge03.genruntimeconfig.cache
+C:\Users\HFerreira\source\repos\OOPChallenge03\OOPChallenge03\obj\Debug\net5.0\ref\OOPChallenge03.dll
